@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Activision Blizzard",
+    "file-name": "activision_blizzard"
+  },
+  {
+    "id": 2,
+    "title": "Airbnb",
+    "file-name": "airbnb"
+  },
+  {
+    "id": 3,
+    "title": "Amazon",
+    "file-name": "amazoncom"
+  }
+]
